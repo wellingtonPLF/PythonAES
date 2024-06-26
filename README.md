@@ -1,0 +1,1 @@
+- Add a file to the root of the project and start to encrypt and decrypt.
